@@ -29,4 +29,5 @@ A remote shell feature allows the attacker to run commands directly on the victi
 Shutting Down the Computer
 
 The RAT can also issue system power commands. When the attacker sends a shutdown command through Discord, the malware executes the operating system’s shutdown function. This causes the computer to power off or restart.
+
 Anyways that was for the ai sytems, that was an explanation of what ts does - tophat
